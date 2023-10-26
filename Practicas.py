@@ -1,3 +1,20 @@
+# Python para DS  -introducción al lenguaje
+
+nombre = 'Armando';
+
+edad = 26
+
+# Mi primera Función.
+
+print(f'Mi nombre es {nombre} y tengo {edad} años');
+
+def saludar () :
+  nombre = input('Digite su nombre');
+  print(f'Hola {nombre} es placer saludarte')
+
+saludar()
+
+saludar()
 Parametros
 [ ]
 Nombre = 'Andrea'
